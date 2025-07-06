@@ -18,7 +18,7 @@
     <project path="external/magisk-prebuilt" name="external_magisk-prebuilt" remote="TeamWin" revision="android-7.1" />
 
 <!-- Include forked external unzip repo from CyanogenMod for toolbox/toybox support -->
-    <project path="external/unzip" name="android_external_unzip" remote="TeamWin" revision="cm-14.1" />
+    <project path="external/unzip" name="android_external_unzip" remote="TeamWin" revision="cm-12.1" />
 
 <!-- Include external zip repo for zip support -->
     <project path="external/zip" name="android_external_zip" remote="TeamWin" revision="android-7.1" />
